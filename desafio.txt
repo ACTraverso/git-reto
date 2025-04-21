@@ -1,1 +1,2 @@
 Hola desafio, se modifica para fusion y resolucion de conflicto.
+no se observa conflicto, el cambio se actualizo en remoto.
